@@ -2,8 +2,8 @@
 ## Proyecto : "Anamnesis"
 ### Se buscará desarrollar un prototipo para el caso clínico.
 Integrantes: 
--Lozana Reguera Ariana Cristina (Colaborador)
--Rivera Jara Emma Lisbeth (Colaborador)
--Malpartida Gil Giampiero (Colaborador)
--Vallejo Canchanya Andre (Colaborador)
--Rojas Flores Fabricio Rodrigo (Colaborador)
+1. Lozana Reguera Ariana Cristina (Colaborador)
+2. Rivera Jara Emma Lisbeth (Colaborador)
+3. Malpartida Gil Giampiero (Colaborador)
+4. Vallejo Canchanya Andre (Colaborador)
+5. Rojas Flores Fabricio Rodrigo (Colaborador)
