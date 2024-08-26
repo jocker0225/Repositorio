@@ -1,2 +1,5 @@
 # Entregable 1
-## - Caso Clínico
+### . CASO CLÍNICO
+### . PROBLEMATICA
+### . DIAGRAMA DE ISHIKAWA
+### . ESTADO DEL ARTE
