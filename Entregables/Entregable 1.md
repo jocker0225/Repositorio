@@ -2,5 +2,5 @@
 * *CASO CLÍNICO*
 * *PROBLEMATICA*
 * *DIAGRAMA DE ISHIKAWA*
-![Imagen del diagrama de Ishikawa](blob:https://web.whatsapp.com/088ab4dc-96c0-4728-97c2-c736870ef7fb)
+![Captura de pantalla 2024-08-26 130855](https://github.com/jocker0225/Repositorio/edit/main/Entregables/Entregable%201.md)
 * *ESTADO DEL ARTE*
