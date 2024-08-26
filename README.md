@@ -5,6 +5,9 @@ Integrantes:
 #### 1. Lozana Reguera Ariana Cristina (Manufactura Digital)
 #### 2. Rivera Jara Emma Lisbeth (Prototipado Electrónico)
 #### 3. Malpartida Gil Giampiero (Diseño 3D)
+[![Whats-App-Image-2024-08-26-at-6-28-05-PM.jpg](https://i.postimg.cc/BQn4ztw6/Whats-App-Image-2024-08-26-at-6-28-05-PM.jpg)](https://postimg.cc/bdW7DYPc)
+
+Alumno de Ingenieria Biomedica el cual se encargara del DISEÑO 3D para bocetar el diseño del prototipo en todas las perspectivas y en 3 dimensiones para poder visualizar una forma mas realista de como seria el prototipado. El objetivo es que el prototipo sea agradable, comodo y simple para el paciente.
 #### 4. Vallejo Canchanya Andre (Diseño Electrónico)
 [![Whats-App-Image-2024-08-26-at-5-01-15-PM.jpg](https://i.postimg.cc/8ck9Z3t6/Whats-App-Image-2024-08-26-at-5-01-15-PM.jpg)](https://postimg.cc/XGhsJ2Mj)
 
