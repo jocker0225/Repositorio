@@ -2,7 +2,7 @@
 ## Proyecto : "Anamnesis"
 ### Se buscará desarrollar un prototipo para el caso clínico.
 Integrantes: 
-#### 1. Lozana Reguera Ariana Cristina (Manufactura Digital)
+#### 1. Lozano Reguera Ariana Cristina (Manufactura Digital)
 
 Alumna de Ingeniería Biomédica con interés en procesos integrados para el diseño, modelado y fabricación de un producto. Encargada del diseño digital y simulaciones del prototipo.
 #### 2. Rivera Jara Emma Lisbeth (Prototipado Electrónico)
