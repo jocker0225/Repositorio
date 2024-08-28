@@ -16,4 +16,5 @@ Alumno de Ingenieria Biomedica el cual se encargara del DISEÑO 3D para bocetar 
 Alumno de ingeniería Biomedica enfocado en especializarse en la rama de "Señales e Imagenes" para diagnosticar mejores resultados en el ámbito médico. Mi rol en este proyecto es desarrollar circuitos y el sistema electrónico del prototipo, asimismo la programación con el objetivo de hacer funcionar los sensores, controladores o equipos de comunicación.
 #### 5. Rojas Flores Fabricio Rodrigo (Coordinador General)
 Alumno de Ingeniería Biomédica, interesado en la especialización en Instrumentación Médica para el desarrollo de dispositivos innovadores. Como Coordinador General, mi rol es guiar al equipo y facilitar la colaboración entre todos los miembros, asegurando que trabajemos juntos hacia nuestros objetivos y cumpliendo los plazos establecidos. 
-![a](https://github.com/user-attachments/assets/64b55a71-8a1d-4e91-85c7-4d1553dcf15c)
+![a2](https://github.com/user-attachments/assets/dc54f9cd-f7d2-425e-96bf-ea060199caf2)
+
