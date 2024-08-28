@@ -67,10 +67,12 @@ Falta de cuidados integrales y oportunos en la gestión de lesiones de la médul
 
 [![Whats-App-Image-2024-08-26-at-1-05-37-PM.jpg](https://i.postimg.cc/BvrJwqK1/Whats-App-Image-2024-08-26-at-1-05-37-PM.jpg)](https://postimg.cc/sBJFMCKV)
 ### *ESTADO DEL ARTE*
-- Desarrollo de un bipedestador para mantener la salud de los miembros inferiores en personas con lesión medular incompleta
-[![Captura-de-pantalla-2024-08-28-131407.png](https://i.postimg.cc/L504Nw09/Captura-de-pantalla-2024-08-28-131407.png)](https://postimg.cc/YLYwSnHZ)
-*L. F. Arango Fernández y M. C. Duarte Villa, "Desarrollo de un bipedestador para mantener la salud de los miembros inferiores en personas con lesión medular incompleta," 2011.*
-El presente trabajo detalla la fabricación de un prototipo funcional de bipedestador como un aparato ortopedico para personas con lesión modular incompleta. La meta fue hacer que las personas puedan ponerse de pie y realizar terapia dinámica de miembros superiores e inferiores. Un producto diseñado para que pueda usarse en casa o en un centro de rehabilitación física con el fin de no abandonar las terapias haciendo que sus miebros no se atrofien por completo.
+- Interfaz de control híbrida de un guante de asistencia semiblando para personas con lesiones de la médula espinal
+[![Captura-de-pantalla-2024-08-28-164954.png](https://i.postimg.cc/t4ZJ1r1F/Captura-de-pantalla-2024-08-28-164954.png)](https://postimg.cc/CR0SXssK)
+*D. Kaneishi et al ., "Interfaz de control híbrida de un guante de asistencia semisuave para personas con lesiones de la médula espinal", 2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR) , Toronto, ON, Canadá, 2019, págs. 132-138, doi: 10.1109/ICORR.2019.8779427.*
+
+Se ha diseñado un dispositivo de tipo asistencia activa para aumentar la capacidad de agarre de las peronas con lesiones de la medula espinal (LME). Usando una bioseñal intutitiva de extensión de la muñeca en el control del dispositivo, donde se busca imitar los movimientos de la flexion de los dedos. Este articulo muestra uan nueva interfaz de control o método de control híbrido desarrollado para personas con LME C6/C7. Mediante una simulación se puede facilitar las situaciones de agarre a la que las personas puedan realizar sus actividades diarias. 
+
 - Exoesqueletos para la recuperacion de la marcha en peronas con lesiones medulares incompletas: revisión sistemática
 [![Captura-de-pantalla-2024-08-27-203511.png](https://i.postimg.cc/fbnW3Psd/Captura-de-pantalla-2024-08-27-203511.png)](https://postimg.cc/rDj23QKy)
 
