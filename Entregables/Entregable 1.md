@@ -58,8 +58,8 @@ Atenciones en 2023:
 Efectos del Daño Medular:
 - Consecuencias: Afecta la conducción de señales motoras y sensoriales, el sistema nervioso autónomo, causando efectos físicos, psicológicos (depresión, ansiedad) y socio-familiares (desintegración familiar, menor participación en educación y empleo). 
 - Rehabilitación Integral: Incluye sesiones educativas para informar a los pacientes sobre su discapacidad y cuidados para prevenir complicaciones derivadas. 
- ### *CUADRO DEL CASO CLÍNICO*
-![Gráfica Cuadro Comparativo Ilustrativo Amarillo](https://github.com/user-attachments/assets/640cc622-d7d3-44d0-bedf-d249420d0d21)
+ ### *CUADRO DEL CASO DE LESIÓN MEDULAR*
+![Gráfica Cuadro Comparativo Ilustrativo Amarillo](https://github.com/user-attachments/assets/cd9a8352-0533-4f20-9deb-d4f1a00bcac2)
 
  ### *PROBLEMÁTICA*
 Falta de cuidados integrales y oportunos en la gestión de lesiones de la médula cervical provocando complicaciones postoperatorias y una recuperación inadecuada
