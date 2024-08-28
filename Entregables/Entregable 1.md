@@ -1,6 +1,7 @@
 # ENTREGABLE 1
  ### *CASO CLÍNICO*
-> 
+> ![Gráfica Cuadro Comparativo Ilustrativo Amarillo](https://github.com/user-attachments/assets/640cc622-d7d3-44d0-bedf-d249420d0d21)
+
  ### *PROBLEMATICA*
 > 
  ### *DIAGRAMA DE ISHIKAWA*
