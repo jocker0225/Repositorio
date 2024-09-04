@@ -18,9 +18,9 @@
 >    Presenta cubiertas rígidas y desmontables para los dedos índice, medio, anular y meñique con precision de dureza el material. Su uso se prioriza en personas con padecimiento ocasianados por la inflamación  
  del nervio mediano.
 >    [![Captura-de-pantalla-2024-09-03-230910.png](https://i.postimg.cc/Bb7qrP95/Captura-de-pantalla-2024-09-03-230910.png)](https://postimg.cc/9wT5TMfz)
->    Fecha de publicación: 18/03/2010
 >    
->    País de procedencia: Mexico
+>    - Fecha de publicación: 18/03/2010
+>    - País de procedencia: Mexico
 >    
 >    Figura 3. Vista anterior del guante relajante que ilustra la indicación de uso y se presentan las vistas anterior y lateral, respectivamente
 que muestran el uso sugerido de la invención.
