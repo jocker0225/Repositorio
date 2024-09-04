@@ -34,7 +34,22 @@
 >    
 >   La figura 2 corresponde a una vista isométrica del soporte mecánico (1) del sistema mecatrónico de estimulación del túnel del carpo posterior.
 > 
-> 3.MODELO DE INVENCIÓN - 
+> 3.MODELO DE INVENCIÓN - Dispositivo de ejercicios de rehabilitación con función de reposo y para lesiones graves de la médula espinal y del cuello
+>
+>  Dispositivo ortopédico diseñado para la rehabilitación de pacientes que han sufrido lesiones medulares cervicales. El dispositivo está diseñado
+>  para proporcionar soporte, estabilización y asistencia en la movilidad durante el proceso de recuperación.
+>  Descripción de las Partes del Dispositivo y su Funcionamiento
+>  -Estructura Principal del Soporte: Está diseñada para mantener las extremidades en la posición correcta, lo que es crucial para la
+>  rehabilitación y para prevenir el daño adicional durante la recuperación.Fabricada de un material resistente y liviano,
+>  -Mecanismo de Ajuste de la Tensión: Permite ajustar la tensión del dispositivo para proporcionar el nivel adecuado de soporte y
+>  resistencia. Esto es especialmente importante en las etapas iniciales de la rehabilitación, donde el paciente necesita más apoyo.
+>  -Componentes de Estabilización:Estos componentes aseguran que las extremidades permanezcan en la alineación correcta durante los movimientos, reduciendo la
+>  posibilidad de movimientos incorrectos que podrían causar lesiones adicionales.
+>  Sistema de Apoyo de Movilidad: Facilita la movilidad del paciente al proporcionar asistencia durante el movimiento de las extremidades afectadas. Esto ayuda a los pacientes a recuperar
+>  gradualmente su capacidad de movimiento de manera segura y controlada.
+> [![d80a9314-ae90-4ec9-98c1-a01595fbe6ad.jpg](https://i.postimg.cc/Y2NG0dkZ/d80a9314-ae90-4ec9-98c1-a01595fbe6ad.jpg)](https://postimg.cc/rzmFYCDN)
+>   - Fecha de publicación: 23/07/2021
+>   - País de procedencia: China
 > # **Lista de requerimientos**
 >
 >[![1.jpg](https://i.postimg.cc/L6QYpr4B/1.jpg)](https://postimg.cc/7f7Y1t2f)
