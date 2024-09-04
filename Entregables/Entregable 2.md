@@ -10,7 +10,7 @@
 > [![Captura-de-pantalla-2024-09-03-220353.png](https://i.postimg.cc/T3SDrBZY/Captura-de-pantalla-2024-09-03-220353.png)](https://postimg.cc/21QyY9kP)
 >
 - # Patentes
-> 1. MODELO DE ULTILIDAD - GUANTE RELAJANTE PARA TERAPIA FÍSICA
+> 1. MODELO DE ULTILIDAD - GUANTE RELAJANTE PARA TERAPIA FÍSICA.
 > 
 >    Un guante relajante con la finalidad de mantener una posición en los dedos de la mano que favorece la relajación del nervio mediano. Hecho de fibras textiles naturales o sintéticos, hule natural o carnaza.
 >    Presenta cubiertas rígidas y desmontables para los dedos índice, medio, anular y meñique con precision de dureza el material.
@@ -21,8 +21,9 @@
 >    - País de procedencia: Mexico
 >    
 >    Figura 3. Vista anterior del guante relajante que ilustra la indicación de uso y se presentan las vistas anterior y lateral, respectivamente que muestran el uso sugerido de la invención.
-> 2. MODELO DE INVENCIÓN - SISTEMA MECATRÓNICO DE ESTIMULACIÓN DEL TUNEL DEL CARPO POSTERIOR
->    ULa presente invención se relaciona para la estimulación física del tunel del carpo posterior, mediante el ejercicio físico de este, del mismo modo realizarlo se proporciona calor a la zona
+>    
+> 2. MODELO DE INVENCIÓN - SISTEMA MECATRÓNICO DE ESTIMULACIÓN DEL TUNEL DEL CARPO POSTERIOR.
+>    La presente invención se relaciona para la estimulación física del tunel del carpo posterior, mediante el ejercicio físico de este, del mismo modo realizarlo se proporciona calor a la zona
 >    del antebrazo. Cuenta con un soporte mecánico, un módulo de control y visualización donde se ejecuta 3 funciones: control de fuerza, control de temperatura y control de visualización.
 >    [![Captura-de-pantalla-2024-09-03-233832.png](https://i.postimg.cc/7P50L3by/Captura-de-pantalla-2024-09-03-233832.png)](https://postimg.cc/Z0hC7yrf)
 >    
