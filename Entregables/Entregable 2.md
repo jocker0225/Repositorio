@@ -31,7 +31,7 @@
 >    
 >    - Fecha de publicación: 24/10/2014
 >    - País de procedencia: Colombia
-> 
+>   La figura 2 corresponde a una vista isométrica del soporte mecánico (1) del sistema mecatrónico de estimulación del túnel del carpo posterior.
 > 3.MODELO DE INVENCIÓN - 
 > # **Lista de requerimientos**
 >
