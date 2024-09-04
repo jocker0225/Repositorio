@@ -39,11 +39,11 @@
 >  Dispositivo ortopédico diseñado para la rehabilitación de pacientes que han sufrido lesiones medulares cervicales. El dispositivo está diseñado
 >  para proporcionar soporte, estabilización y asistencia en la movilidad durante el proceso de recuperación.
 >  Descripción de las Partes del Dispositivo y su Funcionamiento
->  -Estructura Principal del Soporte: Está diseñada para mantener las extremidades en la posición correcta, lo que es crucial para la
+>  Estructura Principal del Soporte: Está diseñada para mantener las extremidades en la posición correcta, lo que es crucial para la
 >  rehabilitación y para prevenir el daño adicional durante la recuperación.Fabricada de un material resistente y liviano,
->  -Mecanismo de Ajuste de la Tensión: Permite ajustar la tensión del dispositivo para proporcionar el nivel adecuado de soporte y
+>  Mecanismo de Ajuste de la Tensión: Permite ajustar la tensión del dispositivo para proporcionar el nivel adecuado de soporte y
 >  resistencia. Esto es especialmente importante en las etapas iniciales de la rehabilitación, donde el paciente necesita más apoyo.
->  -Componentes de Estabilización:Estos componentes aseguran que las extremidades permanezcan en la alineación correcta durante los movimientos, reduciendo la
+>  Componentes de Estabilización:Estos componentes aseguran que las extremidades permanezcan en la alineación correcta durante los movimientos, reduciendo la
 >  posibilidad de movimientos incorrectos que podrían causar lesiones adicionales.
 >  Sistema de Apoyo de Movilidad: Facilita la movilidad del paciente al proporcionar asistencia durante el movimiento de las extremidades afectadas. Esto ayuda a los pacientes a recuperar
 >  gradualmente su capacidad de movimiento de manera segura y controlada.
