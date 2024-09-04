@@ -65,7 +65,7 @@ Efectos del Daño Medular:
 Falta de cuidados integrales y oportunos en la gestión de lesiones de la médula cervical provocando complicaciones postoperatorias y una recuperación inadecuada
  ### *DIAGRAMA DE ISHIKAWA*
 
-![Impacto multidimensional en la calidad de vida tras una lesión medular cervical, enfocando en la movilidad, la adaptación psicosocial y la vida sexual  (1)](https://github.com/user-attachments/assets/42012285-e4ce-46ea-bf53-e7eb62b9f2c7)
+![ishi](https://github.com/user-attachments/assets/2ca2eb2b-83e0-4113-9f86-13bd0c1ce6ac)
 
 ### *ESTADO DEL ARTE*
 - Interfaz de control híbrida de un guante de asistencia semiblando para personas con lesiones de la médula espinal
