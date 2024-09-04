@@ -1,6 +1,6 @@
 > # *Entregable 2*
 >
-> ## **ESTADO DEL ARTE**
+- ## **ESTADO DEL ARTE**
 >
 > # **Contexto comercial**
 >
