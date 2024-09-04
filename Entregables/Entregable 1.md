@@ -62,7 +62,7 @@ Efectos del Daño Medular:
 ![Gráfica Cuadro Comparativo Ilustrativo Amarillo](https://github.com/user-attachments/assets/cd9a8352-0533-4f20-9deb-d4f1a00bcac2)
 
  ### *PROBLEMÁTICA*
-Falta de cuidados integrales y oportunos en la gestión de lesiones de la médula cervical provocando complicaciones postoperatorias y una recuperación inadecuada
+Dificultades en la recuperación de la independencia y funcionalidad en pacientes con lesión medular cervical debido a limitaciones biológicas, en movilidad, adaptación psicosocial, y manejo de sensibilidad.
  ### *DIAGRAMA DE ISHIKAWA*
 
 ![ishi](https://github.com/user-attachments/assets/2ca2eb2b-83e0-4113-9f86-13bd0c1ce6ac)
