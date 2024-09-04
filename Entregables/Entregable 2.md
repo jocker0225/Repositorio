@@ -5,9 +5,9 @@
 > # **Contexto comercial**
 >
 - Productos comerciales
-> - 1. [![Captura-de-pantalla-2024-09-03-220308.png](https://i.postimg.cc/GmSkX4sR/Captura-de-pantalla-2024-09-03-220308.png)](https://postimg.cc/yDcgdYPp)
-> - 2. [![Captura-de-pantalla-2024-09-03-220340.png](https://i.postimg.cc/m2mMrPj9/Captura-de-pantalla-2024-09-03-220340.png)](https://postimg.cc/zVR3tX9D)
-> - 3. [![Captura-de-pantalla-2024-09-03-220353.png](https://i.postimg.cc/T3SDrBZY/Captura-de-pantalla-2024-09-03-220353.png)](https://postimg.cc/21QyY9kP)
+> [![Captura-de-pantalla-2024-09-03-220308.png](https://i.postimg.cc/GmSkX4sR/Captura-de-pantalla-2024-09-03-220308.png)](https://postimg.cc/yDcgdYPp)
+> [![Captura-de-pantalla-2024-09-03-220340.png](https://i.postimg.cc/m2mMrPj9/Captura-de-pantalla-2024-09-03-220340.png)](https://postimg.cc/zVR3tX9D)
+> [![Captura-de-pantalla-2024-09-03-220353.png](https://i.postimg.cc/T3SDrBZY/Captura-de-pantalla-2024-09-03-220353.png)](https://postimg.cc/21QyY9kP)
 >
 - # Patentes
 > 1. MODELO DE ULTILIDAD - GUANTE RELAJANTE PARA TERAPIA FÍSICA
