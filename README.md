@@ -3,7 +3,7 @@
 ### Se buscará desarrollar un prototipo para el caso clínico.
 Integrantes: 
 #### 1. Lozano Reguera Ariana Cristina (Manufactura Digital)
-![WhatsApp Image 2024-08-27 at 9 53 33 PM (1)](https://github.com/user-attachments/assets/f819f74e-11c6-4fdd-9ca0-e95322d57b44)
+[![Whats-App-Image-2024-09-11-at-12-56-41-PM.jpg](https://i.postimg.cc/sfnPTqzc/Whats-App-Image-2024-09-11-at-12-56-41-PM.jpg)](https://postimg.cc/pyFnT0ph)
 
 Alumna de Ingeniería Biomédica con interés en procesos integrados para el diseño, modelado y fabricación de un producto. Encargada del diseño digital y simulaciones del prototipo.
 #### 2. Rivera Jara Emma Lisbeth (Prototipado Electrónico)
