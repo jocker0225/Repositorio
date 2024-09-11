@@ -11,6 +11,7 @@
 >
 - # Patentes
 > 1. MODELO DE ULTILIDAD - ES2960596T3 Dispositivo de rehabilitacion de nudillos.
+>    
 > 
 >    El presente modelo de utilidad muestra la propuesta para una ayuda para ejercicios de rehabilitación de nudillos en el dedo medio, una ayuda para ejercicios de rehabilitación de
 >    nudillos en el dedo anular, una ayuda para ejercicios de rehabilitación de nudillos en el dedo meñique, y una ayuda para
