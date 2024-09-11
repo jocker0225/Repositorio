@@ -10,18 +10,21 @@
 > [![Captura-de-pantalla-2024-09-03-220353.png](https://i.postimg.cc/T3SDrBZY/Captura-de-pantalla-2024-09-03-220353.png)](https://postimg.cc/21QyY9kP)
 >
 - # Patentes
-> 1. MODELO DE ULTILIDAD - GUANTE RELAJANTE PARA TERAPIA FÍSICA.
+> 1. MODELO DE ULTILIDAD - ES2960596T3 Dispositivo de rehabilitacion de nudillos.
 > 
->    Un guante relajante con la finalidad de mantener una posición en los dedos de la mano que favorece la relajación del nervio mediano. Hecho de fibras textiles naturales o sintéticos, hule natural o carnaza.
->    Presenta cubiertas rígidas y desmontables para los dedos índice, medio, anular y meñique con precision de dureza el material.
->    Su uso se prioriza en personas con padecimiento ocasianados por la inflamación del nervio mediano.
+>    El presente modelo de utilidad muestra la propuesta para una ayuda para ejercicios de rehabilitación de nudillos en el dedo medio, una ayuda para ejercicios de rehabilitación de
+>    nudillos en el dedo anular, una ayuda para ejercicios de rehabilitación de nudillos en el dedo meñique, y una ayuda para
+>    el ejercicio de rehabilitación de los nudillos del pulgar; al menos un tubo corrugado; y un equipo de protección, fijado en la muñeca y la palma.
+>    El dispositivo de rehabilitación de nudillos se coloca en los dedos de un paciente por medio de piezas de goma en las ayudas
+>    para el ejercicio de rehabilitación de nudillos, y hace que los dedos del paciente se muevan mientras los tubos corrugados obligan a las piezas de goma a doblarse y enderezarse controlando el aire.
 >    
->    [![Captura-de-pantalla-2024-09-03-230910.png](https://i.postimg.cc/Bb7qrP95/Captura-de-pantalla-2024-09-03-230910.png)](https://postimg.cc/9wT5TMfz)
+>    [Captura-de-pantalla-2024-09-11-131512.png](https://postimg.cc/CB0WWhrH)
 >    
->    - Fecha de publicación: 18/03/2010
->    - País de procedencia: Mexico
+>    - Fecha de publicación: 30/08/2023
+>    - País de procedencia: España
 >    
->    Figura 3. Vista anterior del guante relajante que ilustra la indicación de uso y se presentan las vistas anterior y lateral, respectivamente que muestran el uso sugerido de la invención.
+>    Figura 1. La figura es un diagrama para ilustrar la estructura esquelética de una mano humana.
+>    Figura 2. Diagrama estructural de un dispositivo de rehabiliación articular de dedos.
 >    
 > 3. MODELO DE INVENCIÓN - SISTEMA MECATRÓNICO DE ESTIMULACIÓN DEL TUNEL DEL CARPO POSTERIOR
 >    
