@@ -24,6 +24,7 @@
 >    - País de procedencia: España
 >    
 >    Figura 1. La figura es un diagrama para ilustrar la estructura esquelética de una mano humana.
+>    
 >    Figura 2. Diagrama estructural de un dispositivo de rehabiliación articular de dedos.
 >    
 > 3. MODELO DE INVENCIÓN - SISTEMA MECATRÓNICO DE ESTIMULACIÓN DEL TUNEL DEL CARPO POSTERIOR
