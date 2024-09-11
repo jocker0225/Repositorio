@@ -18,7 +18,7 @@
 >    El dispositivo de rehabilitación de nudillos se coloca en los dedos de un paciente por medio de piezas de goma en las ayudas
 >    para el ejercicio de rehabilitación de nudillos, y hace que los dedos del paciente se muevan mientras los tubos corrugados obligan a las piezas de goma a doblarse y enderezarse controlando el aire.
 >    
->    [Captura-de-pantalla-2024-09-11-131512.png](https://postimg.cc/CB0WWhrH)
+>    [![Captura-de-pantalla-2024-09-11-131512.png](https://i.postimg.cc/ZRv4v0rg/Captura-de-pantalla-2024-09-11-131512.png)](https://postimg.cc/CB0WWhrH)
 >    
 >    - Fecha de publicación: 30/08/2023
 >    - País de procedencia: España
