@@ -38,22 +38,20 @@
 >    
 >   La figura 2 corresponde a una vista isométrica del soporte mecánico (1) del sistema mecatrónico de estimulación del túnel del carpo posterior.
 > 
-> 3.MODELO DE INVENCIÓN - Dispositivo de ejercicios de rehabilitación con función de reposo y para lesiones graves de la médula espinal y del cuello
+> 3.MODELO DE INVENCIÓN - ES2652026T3 Guante de refuerzo. 
+>   El presente invento muestra un guante de dedos para ser utilizado en el refuerzo de un movimiento de agarre ejecutado con un dedo o más de uno de una mano humana que lleva puesto el guante
+>   en donde el guante comprende dedos de guante y una palma.
+>  [![Captura-de-pantalla-2024-09-11-133259.png](https://i.postimg.cc/pL1S5vP5/Captura-de-pantalla-2024-09-11-133259.png)](https://postimg.cc/jDPcBGwR)
 >
->  Dispositivo ortopédico diseñado para la rehabilitación de pacientes que han sufrido lesiones medulares cervicales. El dispositivo está diseñado
->  para proporcionar soporte, estabilización y asistencia en la movilidad durante el proceso de recuperación.
->  Descripción de las Partes del Dispositivo y su Funcionamiento
->  Estructura Principal del Soporte: Está diseñada para mantener las extremidades en la posición correcta, lo que es crucial para la
->  rehabilitación y para prevenir el daño adicional durante la recuperación.Fabricada de un material resistente y liviano,
->  Mecanismo de Ajuste de la Tensión: Permite ajustar la tensión del dispositivo para proporcionar el nivel adecuado de soporte y
->  resistencia. Esto es especialmente importante en las etapas iniciales de la rehabilitación, donde el paciente necesita más apoyo.
->  Componentes de Estabilización:Estos componentes aseguran que las extremidades permanezcan en la alineación correcta durante los movimientos, reduciendo la
->  posibilidad de movimientos incorrectos que podrían causar lesiones adicionales.
->  Sistema de Apoyo de Movilidad: Facilita la movilidad del paciente al proporcionar asistencia durante el movimiento de las extremidades afectadas. Esto ayuda a los pacientes a recuperar
->  gradualmente su capacidad de movimiento de manera segura y controlada.
-> [![d80a9314-ae90-4ec9-98c1-a01595fbe6ad.jpg](https://i.postimg.cc/Y2NG0dkZ/d80a9314-ae90-4ec9-98c1-a01595fbe6ad.jpg)](https://postimg.cc/rzmFYCDN)
->   - Fecha de publicación: 23/07/2021
->   - País de procedencia: China
+>    - Fecha de publicación: 31/01/2018
+>    - País de procedencia: España
+> 
+>    Figura 1 y 2. Mecanismo de almenos un dedo (4a-4c) de guante, tendones (1a-1c) artificiales que se extienden a lo largo de la parte interna del guante y tiene en cada lado lateral
+>    de dicho dedo de guante un tendón (1a-1c) artificial tal que discurre a través de conductos (3a-3c) fijados a los lados laterales del dedo de guante, - un estribo (6a-6c) fijado en
+>    la punta del mencionado al menos un dedo (4a-4c) de guante y diseñado para rodear la punta de un dedo cubierto por el dedo (4a-4c) de guante, y en donde los tendones (1a-1c) artificiales
+>    de un dedo de guante están fijados, o están conectados de manera que pueden deslizarse, al mencionado estribo (6a-6c), por lo cual una fuerza de tracción ejercida sobre los tendones
+>    artificiales de un dedo de guante flexiona el dedo cubierto por el dedo (4a-4c) de guante hacia adentro hacia la palma de la mano.
+> 
 > # **Lista de requerimientos**
 >
 >[![1.jpg](https://i.postimg.cc/L6QYpr4B/1.jpg)](https://postimg.cc/7f7Y1t2f)
