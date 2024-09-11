@@ -1,7 +1,6 @@
 # Bienvenidos al repositorio del curso "Fundamentos de Biodiseño"
 ## GRUPO 1 - EQUIPO 5
 [![Whats-App-Image-2024-09-11-at-12-57-12-PM.jpg](https://i.postimg.cc/Y023vwH4/Whats-App-Image-2024-09-11-at-12-57-12-PM.jpg)](https://postimg.cc/nj57WgMZ)
-### Se buscará desarrollar un prototipo para el caso clínico.
 Integrantes: 
 #### 1. Lozano Reguera Ariana Cristina (Manufactura Digital)
 [![Whats-App-Image-2024-09-11-at-12-56-41-PM.jpg](https://i.postimg.cc/sfnPTqzc/Whats-App-Image-2024-09-11-at-12-56-41-PM.jpg)](https://postimg.cc/pyFnT0ph)
