@@ -39,7 +39,8 @@
 >    
 >   La figura 2 corresponde a una vista isométrica del soporte mecánico (1) del sistema mecatrónico de estimulación del túnel del carpo posterior.
 > 
-> 3.MODELO DE INVENCIÓN - ES2652026T3 Guante de refuerzo. 
+> 3.MODELO DE INVENCIÓN - ES2652026T3 Guante de refuerzo.
+> 
 >   El presente invento muestra un guante de dedos para ser utilizado en el refuerzo de un movimiento de agarre ejecutado con un dedo o más de uno de una mano humana que lleva puesto el guante
 >   en donde el guante comprende dedos de guante y una palma.
 >  [![Captura-de-pantalla-2024-09-11-133259.png](https://i.postimg.cc/pL1S5vP5/Captura-de-pantalla-2024-09-11-133259.png)](https://postimg.cc/jDPcBGwR)
