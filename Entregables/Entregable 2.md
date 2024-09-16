@@ -5,10 +5,10 @@
 > # **Contexto comercial**
 >
 - Productos comerciales
-> [![Captura-de-pantalla-2024-09-03-220308.png](https://i.postimg.cc/GmSkX4sR/Captura-de-pantalla-2024-09-03-220308.png)](https://postimg.cc/yDcgdYPp)
-> [![Captura-de-pantalla-2024-09-03-220340.png](https://i.postimg.cc/m2mMrPj9/Captura-de-pantalla-2024-09-03-220340.png)](https://postimg.cc/zVR3tX9D)
-> [![Captura-de-pantalla-2024-09-03-220353.png](https://i.postimg.cc/T3SDrBZY/Captura-de-pantalla-2024-09-03-220353.png)](https://postimg.cc/21QyY9kP)
->
+> ![Productos comerciales (1)](https://github.com/user-attachments/assets/e8efa1b8-2814-4b3f-81f3-c0363b5c26a0)
+> ![Productos comerciales (2)](https://github.com/user-attachments/assets/a470e5ca-63ef-4c5a-95bf-933e221e64e8)
+> ![Productos comerciales](https://github.com/user-attachments/assets/13843ca6-f0c5-4be7-9388-2270afd80969)
+
 - # Patentes
 > 1. MODELO DE ULTILIDAD - ES2960596T3 Dispositivo de rehabilitacion de nudillos.
 >    
