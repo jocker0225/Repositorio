@@ -24,7 +24,7 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 > ### *PROPUESTA DE SOLUCIÓN*
 > 1. Descripción de la solución:
 
-La solución que proponemos es un guante robotico que permita realizar las acciones de agarrar algo, la pinza (para poder escribir), mantener estable la muñeca y poder realizar extensión y flexión de muñeca. Esto será gracias a la robotica y sensores que tendrá el guante que estarán posicionados en cada dedo.
+La solución que proponemos es un guante electronico que permita realizar las acciones de agarrar algo, la pinza (para poder escribir), mantener estable la muñeca y poder realizar extensión y flexión de muñeca. Esto será gracias a la robotica y sensores que tendrá el guante que estarán posicionados en cada dedo.
 Esto permitirá a nuestro sujeto, que es abogado, poder realizar sus acciones diarias como escribir, leer o incluso tomar una taza de café.
 
 > 2. Características del prototipo:
@@ -43,7 +43,6 @@ El diseño liviano asegura que el paciente use el dispositivo durante varias hor
 Uno de los principales beneficios del guante robótico es que permite a los usuarios realizar movimientos precisos de agarre y manipulación de objetos.
 El guante robótico facilita la autonomía en las actividades diarias. Al mejorar la funcionalidad de la mano, los pacientes pueden realizar tareas que antes eran inalcanzables o que requerían la asistencia de otra persona.
 A comparación de otras alternativas como son:
-Las férulas solo proporcionan estabilización pasiva y no permiten movimientos de agarre. En cambio, el guante robótico ofrece movilidad activa en los dedos, lo que facilita la ejecución de tareas diarias de manera independiente.
 
 En los métodos tradicionales de rehabilitación, los pacientes requieren de terapia física constante, lo que implica un alto costo y tiempo. El guante robótico permite que los usuarios realicen ejercicios de rehabilitación por su cuenta, disminuyendo la necesidad de asistencia constante.
 
@@ -56,7 +55,7 @@ Conocimientos necesarios:
 - Anatomía básica de la mano y la muñeca, para garantizar que el dispositivo respete la fisiología del paciente.
 - Programación básica de microcontroladores para integrar los componentes electrónicos y sensores del dispositivo.
 
-Un ejemplo claro es el guante robótico SoftHand Pro, que ha sido desarrollado para pacientes con discapacidad motora severa. Este guante utiliza actuadores suaves (soft actuators) que permiten movimientos precisos y naturales, combinados con sensores que proporcionan retroalimentación sensorial, lo que mejora la autonomía de los usuarios en actividades diarias .
+
 
 > ### *COHERENCIA*
 
