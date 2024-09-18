@@ -16,13 +16,19 @@ El problema específico que buscamos resolver es la recuperación de la funciona
  La pérdida de funcionalidad en las extremidades superiores tiene un impacto directo en la vida diaria de las personas con lesión medular, dificultando tareas tan simples como alimentarse, vestirse o escribir. A nivel psicológico, entre el 20% y el 30% de las personas con LME presentan síntomas clínicamente significativos de depresión, y un porcentaje considerable sufre aislamiento social. [4] En términos de salud, las personas con LME están en mayor riesgo de complicaciones prevenibles como infecciones o úlceras de decúbito. Además, el estrés y la carga emocional afectan tanto a los pacientes como a sus cuidadores.
 En este contexto, nuestra propuesta es desarrollar un dispositivo de rehabilitación que fortalezca la función de las manos y los dedos, permitiendo al paciente realizar movimientos esenciales como la pinza, separar los dedos y cerrar la mano. La restauración de estas funciones mejoraría significativamente su capacidad de realizar tareas cotidianas, facilitando una mayor independencia y reduciendo el impacto emocional y social asociado a su condición.
 
+Relevancia en Ingeniería Biomédica:
+
+El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de tecnologías que mejoren la rehabilitación y calidad de vida de personas con lesiones medulares. La creación de dispositivos de asistencia o rehabilitación personalizados, como el que se propone aquí, no solo mejora la funcionalidad física del paciente, sino que también impacta en su bienestar psicológico, emocional y social. Al integrar principios de biomecánica, robótica suave y rehabilitación, la ingeniería biomédica tiene el potencial de crear soluciones que ayuden a las personas a recuperar funciones perdidas y a reintegrarse en la vida cotidiana de manera más efectiva.
+
+
 > ### *PROPUESTA DE SOLUCIÓN*
 
 > Descripción de la solución:
+>
+El guante robótico se desea diseñar con un enfoque de satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares, espasticidad o pérdida de función motora c6/c7. Para garantizar que esta solución sea efectiva, se han incluido funciones esenciales que permiten una manera precisa de identificar la problematica.
 
 > Características del prototipo:
 
-El guante robótico se desea diseñar con un enfoque de satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares, espasticidad o pérdida de función motora c6/c7. Para garantizar que esta solución sea efectiva, se han incluido funciones esenciales que permiten una manera precisa de identificar la problematica.
 
 A. Actuadores en los dedos para asistencia en el movimiento:
 
@@ -65,8 +71,14 @@ General : Recrear un guante electronico con fin de rehabilitación física para 
 Especifico: Recuperar la funcionalidad de las manos y los dedos a un plazo no mayor de 1 año.
 
 > Justificación del prototipo:
+>
+Nuestra propuesta ofrece varias ventajas en comparación con las soluciones revisadas en el estado del arte. En lugar de utilizar un guante, proponemos un exoesqueleto blando que se adapta mejor a la mano del paciente. Esta adaptación permite una mayor precisión durante la rehabilitación, ya que el exoesqueleto blando proporciona una mejor fijación del sensor de fuerza integrado. Este sensor es crucial para monitorear el progreso del paciente y obtener un diagnóstico más preciso sobre la mejora en su agarre. Además, nos centraremos en la rehabilitación de los tres dedos más importantes: el pulgar, el índice y el del medio. Estos dedos son fundamentales para realizar actividades básicas, como agarrar un lápiz o un objeto.
+Otra ventaja significativa de nuestra propuesta es el control del exoesqueleto mediante el movimiento de la muñeca. Dado que el paciente no presenta problemas en esta área, podemos evitar el uso del antebrazo, que es común en otros productos para proporcionar estabilidad. Esta decisión no solo simplifica el diseño y reduce los costos, sino que también se alinea mejor con las capacidades funcionales actuales del paciente.
+
 
 > Alineación con el problema:
+>
+El prototipo está diseñado para personas con lesión medular en las vértebras C6 y C7, con el objetivo de rehabilitar la mano y mejorar su movilidad, específicamente en la flexión y extensión. Este exoesqueleto blando permitirá al paciente realizar actividades básicas de manera más independiente, facilitando tareas como agarrar un lápiz o cualquier objeto necesario para su vida diaria y profesional, como en el caso de un abogado. Además, el sensor de fuerza integrado proporcionará información continua sobre el progreso del paciente, ayudando a monitorear y ajustar el proceso de rehabilitación a lo largo del tiempo.
 
 > ### *RESUMEN*
 
