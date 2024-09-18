@@ -24,30 +24,14 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 > ### *PROPUESTA DE SOLUCIÓN*
 
 > Características del prototipo y descripción de la solución:
-
-A. Actuadores en los dedos para asistencia en el movimiento:
-
- El guante podría estar equipado por actuadores mecánicos colocados en cada dedo, que permiten la flexión y extensión de los mismos, imitando los movimientos naturales de agarre en la mano.
-Función: Estos actuadores proporcionan la fuerza necesaria para realizar movimientos de agarre y manipulación de objetos, ayudando al paciente a recuperar la capacidad de agarrar y soltar diferentes objetos como libros, utensilios o herramientas.
-Esta característica permite superar la falta de fuerza y control motor fino en la mano, un desafío común en pacientes con daño neuromotor.
-
-B. Sensores de presión y retroalimentación háptica:
-
-El guante incluiría sensores de presión distribuidos en las yemas de los dedos y la palma. Estos sensores están conectados a un sistema de retroalimentación háptica que proporciona estímulos vibratorios o táctiles.
-Función: Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia natural durante su uso.
-Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial en pacientes que han perdido sensibilidad o tienen una percepción distorsionada del tacto debido a la lesión neurológica.
-
-C. Estabilización dinámica de la muñeca:
-
-El guante estaría diseñado con una férula integrada que estabiliza la muñeca en una posición ergonómica mientras permite el movimiento de los dedos.
-Función: La férula impide que la muñeca se desvíe de su posición óptima, reduciendo la posibilidad de lesiones adicionales o malformaciones durante el uso. Al ser dinámica, permite cierto grado de movilidad sin sacrificar el soporte.
-Este sistema mejora la estabilidad y reduce el riesgo de espasmos y contracturas, problemas comunes en pacientes con movilidad limitada o espasticidad severa.
-
-D. Ligereza y comodidad:
-
-Se utilizaría un material ligero y flexible, como polímeros y textiles técnicos, que permiten que el guante sea ergonómico y cómodo de llevar por periodos prolongados. Además, es ajustable para adaptarse a diferentes tamaños de mano y grado de espasticidad.
-Función: El diseño liviano y ajustable asegura que el paciente pueda usar el dispositivo durante varias horas, tanto para rehabilitación como para actividades cotidianas, sin generar fatiga muscular o incomodidad.
- La comodidad y ligereza son esenciales para promover el uso constante del guante haciendo posible su rehabilitación.
+El guante robótico se diseñó con un enfoque en satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares o pérdida de función motora.
+a. Estimulación Sensorial:
+El guante incluye sensores de presión distribuidos en las yemas de los dedos y la palma. Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia más natural durante la rehabilitación. Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial para el paciente.
+b. Estabilización dinámica de la muñeca:
+El guante está diseñado con una férula integrada que estabiliza la muñeca en una posición ergonómica mientras permite el movimiento de los dedos.
+La férula impide que la muñeca se desvíe de su posición óptima, reduciendo la posibilidad de lesiones adicionales o malformaciones durante el uso. Al ser dinámica, permite cierto grado de movilidad sin sacrificar el soporte.
+c. Ligereza y comodidad:
+El diseño liviano asegura que el paciente use el dispositivo durante varias horas, tanto para rehabilitación como para actividades cotidianas, sin generar fatiga muscular o incomodidad. Esenciales para promover el uso constante del guante, lo que es clave para un proceso de rehabilitación rapida.
 
 > Beneficios:
 
