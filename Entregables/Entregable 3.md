@@ -75,7 +75,7 @@ Especifico:
 > Justificación del prototipo:
 >
 Nuestra propuesta ofrece varias ventajas en comparación con las soluciones revisadas en el estado del arte. En lugar de utilizar un guante que solo ayude en el agarre de la mano, proponemos implementar un sensor dentro del guante que mida la fuerza. Este sensor es crucial para monitorear el progreso del paciente y obtener un diagnóstico más preciso sobre la mejora en su agarre. Además, nos centraremos en la rehabilitación de los tres dedos más importantes: el pulgar, el índice y el del medio. Estos dedos son fundamentales para realizar actividades básicas, como agarrar un lápiz o un objeto.
-Otra ventaja significativa de nuestra propuesta es el control del exoesqueleto mediante el movimiento de la muñeca. Dado que el paciente no presenta problemas en esta área, podemos evitar el uso del antebrazo, que es común en otros productos para proporcionar estabilidad. Esta decisión no solo simplifica el diseño y reduce los costos, sino que también se alinea mejor con las capacidades funcionales actuales del paciente.
+Otra ventaja significativa de nuestra propuesta es el control del guante mediante el movimiento de la muñeca. Dado que el paciente no presenta problemas en esta área, podemos evitar el uso del antebrazo, que es común en otros productos para proporcionar estabilidad. Esta decisión no solo simplifica el diseño y reduce los costos, sino que también se alinea mejor con las capacidades funcionales actuales del paciente.
 
 
 > Alineación con el problema:
