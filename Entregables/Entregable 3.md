@@ -23,6 +23,7 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 
 > ### *PROPUESTA DE SOLUCIÓN*
 > 1. Características del prototipo y descripción de la solución:
+
 La solución que proponemos es un guante robotico que permita realizar las acciones de agarrar algo, la pinza (para poder escribir), mantener estable la muñeca, etc. Esto será gracias a la robotica y sensores que tendrá el guante que estarán posicionados en cada dedo.
 Esto permitirá a nuestro sujeto, que es abogado, poder realizar sus acciones diarias como escribir, leer o incluso tomar una taza de café.
 
