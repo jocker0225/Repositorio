@@ -83,6 +83,7 @@ Otra ventaja significativa de nuestra propuesta es el control del exoesqueleto m
 El prototipo está diseñado para personas con lesión medular en las vértebras C6 y C7, con el objetivo de rehabilitar la mano y mejorar su movilidad, específicamente en la flexión y extensión. Este guante electrónico permitirá al paciente realizar actividades básicas de manera más independiente, facilitando tareas como agarrar un lápiz o cualquier objeto necesario para su vida diaria y profesional, como en el caso de un abogado. Además, el sensor de fuerza integrado proporcionará información continua sobre el progreso del paciente, ayudando a monitorear y ajustar el proceso de rehabilitación a lo largo del tiempo.
 
 > Bocetos del producto
+
 ![CamScanner 18-09-2024 15 31_1](https://github.com/user-attachments/assets/1c2805ff-cb74-485e-a96d-7ca34f4331bf)
 ![CamScanner 18-09-2024 15 31_2](https://github.com/user-attachments/assets/7fa08270-57b6-4028-8e35-ef913232ee75)
 ![CamScanner 18-09-2024 15 31_3](https://github.com/user-attachments/assets/f80b2d22-b6ef-4a7a-8184-be04f4663d60)
