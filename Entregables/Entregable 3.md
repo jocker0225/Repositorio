@@ -29,9 +29,9 @@ Esto permitirá a nuestro sujeto, que es abogado, poder realizar sus acciones di
 
 > 2. Características del prototipo:
 
-El guante robótico se diseñó con un enfoque en satisfacer las necesidades autonomas de pacientes con movilidad reducida en la mano,  aquellos con lesiones medulares o que perdieron la función motora. Pacientes como el nuestro que quieran recuperar la mayor parte de su autonomia al hacer su vida cotidiana devuelta. 
+El guante robótico propone con un diseño de satisfacer las necesidades autonomas de pacientes con movilidad reducida en la mano,  aquellos con lesiones medulares o las personas que perdieron la función motora, pacientes como el nuestro que quieran recuperar la mayor parte de su autonomia al hacer su vida cotidiana devuelta. 
 #### a. Estimulación Sensorial:
-El guante incluye sensores de presión distribuidos en las yemas de los dedos y la palma. Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia más natural durante la rehabilitación. Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial para el paciente.
+El guante incluye sensores de presión distribuidos en las yemas de los dedos. Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia más natural durante la rehabilitación. Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial para el paciente.
 
 #### b. Ligereza y comodidad:
 El diseño liviano asegura que el paciente use el dispositivo durante varias horas, tanto para rehabilitación como para actividades cotidianas, sin generar fatiga muscular o incomodidad. Esenciales para promover el uso constante del guante, lo que es clave para un proceso de rehabilitación rapida.
