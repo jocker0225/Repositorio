@@ -44,7 +44,7 @@ Uno de los principales beneficios del guante robótico es que permite a los usua
 El guante robótico facilita la autonomía en las actividades diarias. Al mejorar la funcionalidad de la mano, los pacientes pueden realizar tareas que antes eran inalcanzables o que requerían la asistencia de otra persona.
 A comparación de otras alternativas como son:
 Las férulas solo proporcionan estabilización pasiva y no permiten movimientos de agarre. En cambio, el guante robótico ofrece movilidad activa en los dedos, lo que facilita la ejecución de tareas diarias de manera independiente.
-Muchos exoesqueletos de mano son voluminosos y costosos, lo que dificulta su uso cotidiano. El guante robótico propuesto es ligero, portátil y de bajo costo en comparación, lo que lo hace más accesible para una mayor cantidad de usuarios.
+
 En los métodos tradicionales de rehabilitación, los pacientes requieren de terapia física constante, lo que implica un alto costo y tiempo. El guante robótico permite que los usuarios realicen ejercicios de rehabilitación por su cuenta, disminuyendo la necesidad de asistencia constante.
 
 > 4. Viabilidad Técnica:
