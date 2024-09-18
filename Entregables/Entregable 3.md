@@ -69,7 +69,7 @@ Especifico:
  - Desarrollar un sensor de fuerza que monitoree el progreso del paciente al medir la tensión aplicada durante la rehabilitación.
  - Implementar un sistema de control que permita al guante activarse mediante el movimiento de la muñeca.
  - Evaluar la simplicidad y costo de materiales para elegir los componentes que permitan un diseño eficiente y accesible.
- - Realizar pruebas en pacientes para medir la efectividad del monitoreo y la interacción natural con el exoesqueleto.
+ - Realizar pruebas en pacientes para medir la efectividad del monitoreo y la interacción natural con el guante.
 
 
 > Justificación del prototipo:
