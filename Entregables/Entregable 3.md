@@ -55,12 +55,32 @@ El guante robótico propuesto ofrece una serie de mejoras sustanciales respecto 
 > ### *COHERENCIA*
 
 > Contexto del proyecto:
+>
+La propuesta del exoesqueleto blando es esencial para la rehabilitación de pacientes con lesión medular en C6 y C7, ya que ofrece una solución adaptativa y cómoda para mejorar la movilidad de la mano y facilitar la recuperación funcional. Su diseño permite un ajuste personalizado y la integración de sensores de fuerza, lo que permite un monitoreo preciso del progreso del paciente. Esta solución se alinea con el enfoque de la ingeniería biomédica en el desarrollo de dispositivos médicos innovadores que combinan tecnología avanzada con comodidad, mejorando la rehabilitación y la calidad de vida de los pacientes.
 
 > Objetivos del proyecto:
 
+Objetivo general
+
+Fabricar un exoesqueleto blando para ayudar en la rehabilitación de manos, mejorando los movimientos de flexión y extensión de los dedos pulgar, índice y el del medio.
+
+Objetivos específicos
+
+Desarrollar un sensor de fuerza que monitoree el progreso del paciente al medir la tensión aplicada durante la rehabilitación.
+Implementar un sistema de control que permita al exoesqueleto activarse mediante el movimiento de la muñeca.
+Evaluar la simplicidad y costo de materiales para elegir los componentes que permitan un diseño eficiente y accesible.
+Realizar pruebas en pacientes para medir la efectividad del monitoreo y la interacción natural con el exoesqueleto.
+
 > Justificación del prototipo:
 
+Nuestra propuesta ofrece varias ventajas en comparación con las soluciones revisadas en el estado del arte. En lugar de utilizar un guante, proponemos un exoesqueleto blando que se adapta mejor a la mano del paciente. Esta adaptación permite una mayor precisión durante la rehabilitación, ya que el exoesqueleto blando proporciona una mejor fijación del sensor de fuerza integrado. Este sensor es crucial para monitorear el progreso del paciente y obtener un diagnóstico más preciso sobre la mejora en su agarre. Además, nos centraremos en la rehabilitación de los tres dedos más importantes: el pulgar, el índice y el del medio. Estos dedos son fundamentales para realizar actividades básicas, como agarrar un lápiz o un objeto.
+Otra ventaja significativa de nuestra propuesta es el control del exoesqueleto mediante el movimiento de la muñeca. Dado que el paciente no presenta problemas en esta área, podemos evitar el uso del antebrazo, que es común en otros productos para proporcionar estabilidad. Esta decisión no solo simplifica el diseño y reduce los costos, sino que también se alinea mejor con las capacidades funcionales actuales del paciente.
+
+
 > Alineación con el problema:
+
+El prototipo está diseñado para personas con lesión medular en las vértebras C6 y C7, con el objetivo de rehabilitar la mano y mejorar su movilidad, específicamente en la flexión y extensión. Este exoesqueleto blando permitirá al paciente realizar actividades básicas de manera más independiente, facilitando tareas como agarrar un lápiz o cualquier objeto necesario para su vida diaria y profesional, como en el caso de un abogado. Además, el sensor de fuerza integrado proporcionará información continua sobre el progreso del paciente, ayudando a monitorear y ajustar el proceso de rehabilitación a lo largo del tiempo.
+
 
 > ### *RESUMEN*
 
