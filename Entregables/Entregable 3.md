@@ -23,19 +23,32 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 
 > ### *PROPUESTA DE SOLUCIÓN*
 
-> Características del prototipo y descripción de la solución:
+> 1. Características del prototipo y descripción de la solución:
 El guante robótico se diseñó con un enfoque en satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares o pérdida de función motora.
-a. Estimulación Sensorial:
+#### a. Estimulación Sensorial:
 El guante incluye sensores de presión distribuidos en las yemas de los dedos y la palma. Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia más natural durante la rehabilitación. Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial para el paciente.
-b. Estabilización dinámica de la muñeca:
+#### b. Estabilización dinámica de la muñeca:
 El guante está diseñado con una férula integrada que estabiliza la muñeca en una posición ergonómica mientras permite el movimiento de los dedos.
 La férula impide que la muñeca se desvíe de su posición óptima, reduciendo la posibilidad de lesiones adicionales o malformaciones durante el uso. Al ser dinámica, permite cierto grado de movilidad sin sacrificar el soporte.
-c. Ligereza y comodidad:
+#### c. Ligereza y comodidad:
 El diseño liviano asegura que el paciente use el dispositivo durante varias horas, tanto para rehabilitación como para actividades cotidianas, sin generar fatiga muscular o incomodidad. Esenciales para promover el uso constante del guante, lo que es clave para un proceso de rehabilitación rapida.
 
-> Beneficios:
+> 2. Beneficios:
+Uno de los principales beneficios del guante robótico es que permite a los usuarios realizar movimientos precisos de agarre y manipulación de objetos.
+El guante robótico facilita la autonomía en las actividades diarias. Al mejorar la funcionalidad de la mano, los pacientes pueden realizar tareas que antes eran inalcanzables o que requerían la asistencia de otra persona.
+A comparación de otras alternativas como son:
+Las férulas solo proporcionan estabilización pasiva y no permiten movimientos de agarre. En cambio, el guante robótico ofrece movilidad activa en los dedos, lo que facilita la ejecución de tareas diarias de manera independiente.
+Muchos exoesqueletos de mano son voluminosos y costosos, lo que dificulta su uso cotidiano. El guante robótico propuesto es ligero, portátil y de bajo costo en comparación, lo que lo hace más accesible para una mayor cantidad de usuarios.
+En los métodos tradicionales de rehabilitación, los pacientes requieren de terapia física constante, lo que implica un alto costo y tiempo. El guante robótico permite que los usuarios realicen ejercicios de rehabilitación por su cuenta, disminuyendo la necesidad de asistencia constante.
+> 3. Viabilidad Técnica:
+Para los actuadores en los dedos, se pueden emplear motores eléctricos de bajo peso, como los utilizados en prótesis robóticas. Con la estructura del guante, se utilizará un polímero como es la silicona , que por sus características  son suaves, flexibles y duraderos. Estos materiales dan comodidad al usuario y permiten el uso prolongado sin causar lesiones o incomodidades.
+El guante incorpora microcontroladores como el Arduino, que han sido ampliamente utilizados en dispositivos robóticos y son capaces de procesar señales de los sensores de presión y controlar los actuadores. Estos controladores son accesibles, asequibles y programables .
+Conocimientos necesarios:
+- Control robótico: El desarrollo del software que controle los actuadores y sensores.
+- Anatomía básica de la mano y la muñeca, para garantizar que el dispositivo respete la fisiología del paciente.
+- Programación básica de microcontroladores para integrar los componentes electrónicos y sensores del dispositivo.
 
-El guante robótico propuesto ofrece una serie de mejoras sustanciales respecto a los dispositivos existentes y métodos tradicionales para la rehabilitación de la movilidad en las manos. Estas mejoras abarcan tanto el rendimiento funcional como la comodidad del usuario, y hacen que esta solución sea más efectiva para pacientes con lesiones medulares o daño neurológico.
+Un ejemplo claro es el guante robótico SoftHand Pro, que ha sido desarrollado para pacientes con discapacidad motora severa. Este guante utiliza actuadores suaves (soft actuators) que permiten movimientos precisos y naturales, combinados con sensores que proporcionan retroalimentación sensorial, lo que mejora la autonomía de los usuarios en actividades diarias .
 
 > ### *COHERENCIA*
 
