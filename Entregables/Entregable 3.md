@@ -24,6 +24,7 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 > ### *PROPUESTA DE SOLUCIÓN*
 
 > 1. Características del prototipo y descripción de la solución:
+
 El guante robótico se diseñó con un enfoque en satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares o pérdida de función motora.
 #### a. Estimulación Sensorial:
 El guante incluye sensores de presión distribuidos en las yemas de los dedos y la palma. Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia más natural durante la rehabilitación. Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial para el paciente.
