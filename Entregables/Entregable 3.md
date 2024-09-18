@@ -62,7 +62,7 @@ La propuesta del exoesqueleto blando es esencial para la rehabilitación de paci
 
 General : Recrear un guante electronico con fin de rehabilitación física para paciente con movilidad restrigida de manos por lesiones medulares de tipo C6/C7 o pérdida de función motora posibilitando la reinserción al campo laboral.
 
-Especifico: Recuperar la funcionalidad de las manos y los dedos a un corto plazo no mayor de 1 año.
+Especifico: Recuperar la funcionalidad de las manos y los dedos a un plazo no mayor de 1 año.
 
 > Justificación del prototipo:
 
