@@ -23,12 +23,7 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 
 > ### *PROPUESTA DE SOLUCIÓN*
 
-> Descripción de la solución:
->
-El guante robótico se desea diseñar con un enfoque de satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares, espasticidad o pérdida de función motora c6/c7. Para garantizar que esta solución sea efectiva, se han incluido funciones esenciales que permiten una manera precisa de identificar la problematica.
-
-> Características del prototipo:
-
+> Características del prototipo y descripción de la solución:
 
 A. Actuadores en los dedos para asistencia en el movimiento:
 
@@ -77,7 +72,7 @@ Otra ventaja significativa de nuestra propuesta es el control del exoesqueleto m
 
 
 > Alineación con el problema:
->
+
 El prototipo está diseñado para personas con lesión medular en las vértebras C6 y C7, con el objetivo de rehabilitar la mano y mejorar su movilidad, específicamente en la flexión y extensión. Este exoesqueleto blando permitirá al paciente realizar actividades básicas de manera más independiente, facilitando tareas como agarrar un lápiz o cualquier objeto necesario para su vida diaria y profesional, como en el caso de un abogado. Además, el sensor de fuerza integrado proporcionará información continua sobre el progreso del paciente, ayudando a monitorear y ajustar el proceso de rehabilitación a lo largo del tiempo.
 
 > ### *RESUMEN*
@@ -113,4 +108,4 @@ Se considera a realizar una metodología de diseño considerando las entradas y 
 
 > [4] OMS, et al. “Lesiones de la Mèdula Espinal Perspectivas Internacionales.” Untitled, https://iris.who.int/bitstream/handle/10665/131504/WHO_NMH_VIP_13.03_spa.pdf?sequence=1&isAllowed=y.
 > Accessed 16 September 2024.
->
+
