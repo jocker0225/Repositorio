@@ -72,6 +72,9 @@ Especifico: Recuperar la funcionalidad de las manos y los dedos a un plazo no ma
 
 > Recapitulación del problema y solución planteada:
 
+Lesión medular, especialmente del tipo C7, resultado de un zambullido. Resalta en la pérdida parcialmente y temporalmente de la movilidad en las extremidades superiores e inferiores, afectando la capacidad del paciente a realizar actividades diarias o laborales en su caso de Abogado.
+Para abordar estos desafios, se propone un guante electrónico que imite los movimientos de los dedos y la mano y facilite en su rehabilitación física de estos. Ofreciendo características de movimiento asistido, sensor de presión y estimulación háptica, estabilizador dinámico de muñeca con características de ser ligero y comodo usando materiales como polimeros y/o textiles tecnicos.
+
 > Resultados deseados:
 
 Se espera que el proyecto obtenga los siguientes resultados:
@@ -80,10 +83,12 @@ Rehabilitación funcional ayudando a la reintegracion de actividad diarias.
 Monitoreo de progreso por la proporcion de datos a través de sensores que registren la fuerza de flexión de los dedos.
 Comodidad y usabilidad por el uso de un diseño ergonomico.
 Estimulación neuromuscular en músculos y nervios de la mano, promoviendo la plasticidad neuronal.
-
 Eficiencia del prototipado electronico (Circuito electrónico y componentes electróonicos)
+
 > Siguientes pasos:
+
 Se considera a realizar una metodología de diseño considerando las entradas y salidas de energía, señales y materia de una caja negra. De esta manera se busca hacer un esquema de funciones que realizaría el proyecto como flexión, procesar datos de variables, reguladores de fuerza, ligereza y comodidad, no invasivo y portatil capaz de usarse por largo periodos de tiempo. Luego hacer una matrix morfologica que incluya dispositivos electronicos que vamos a implementar evaluando los conceptos de solución. De la misma manera se seguiría con el modelado 3D, es decir con la estructura optima que agrupe todas las características de solución, es concierne al uso de programas como Autodesk Inventor y para la parte del modelado electronico Proteus y/o ArduinoIDE. Por consiguiente se busca una inmejorable impresion 3D haciendo uso de programas como Cura Multimaker. Finalmente se estarian realizando calculos finales de las variables, revisar el historial de propuestas de soluciones y validando las funciones finales obtenidas para hacer pruebas en un simulacro del paciente para evaluar su eficacia del producto.
+
 > ### *REFERENCIAS BIBLIOGRAFICAS (IEEE)*
 > [1] UPCH. “Lesiones de la médula espinal por enfermedades y de causa traumática.” 2024, https://upch.blackboard.com/ultra/courses/_12309_1/outline/file/_670764_1.
 
