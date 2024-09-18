@@ -1,9 +1,9 @@
 > # ENTREGABLE 3
-> ## PROBLEMATICA
+> ### *PROBLEMATICA*
 > 
-> ## PROPUESTA DE SOLUCIÓN
+> ### *PROPUESTA DE SOLUCIÓN*
 > 
-> ## COHERENCIA
+> ### *COHERENCIA*
 > 
-> ## RESUMEN
+> ### *RESUMEN*
 > 
