@@ -24,7 +24,7 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 > ### *PROPUESTA DE SOLUCIÓN*
 > 1. Descripción de la solución:
 
-La solución que proponemos es un guante electronico que permita realizar las acciones de agarrar algo, la pinza (para poder escribir), mantener estable la muñeca y poder realizar extensión y flexión de muñeca. Esto será gracias a la robotica y sensores que tendrá el guante que estarán posicionados en cada dedo.
+La solución que proponemos es un guante electrónico que permita realizar las acciones de agarrar algo, la pinza (para poder escribir), mantener estable la muñeca y poder realizar extensión y flexión de muñeca. Esto será gracias a la robotica y sensores que tendrá el guante que estarán posicionados en cada dedo.
 Esto permitirá a nuestro sujeto, que es abogado, poder realizar sus acciones diarias como escribir, leer o incluso tomar una taza de café.
 
 > 2. Características del prototipo:
@@ -32,10 +32,8 @@ Esto permitirá a nuestro sujeto, que es abogado, poder realizar sus acciones di
 El guante robótico se diseñó con un enfoque en satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares o pérdida de función motora.
 #### a. Estimulación Sensorial:
 El guante incluye sensores de presión distribuidos en las yemas de los dedos y la palma. Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia más natural durante la rehabilitación. Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial para el paciente.
-#### b. Estabilización dinámica de la muñeca:
-El guante está diseñado con una férula integrada que estabiliza la muñeca en una posición ergonómica mientras permite el movimiento de los dedos.
-La férula impide que la muñeca se desvíe de su posición óptima, reduciendo la posibilidad de lesiones adicionales o malformaciones durante el uso. Al ser dinámica, permite cierto grado de movilidad sin sacrificar el soporte.
-#### c. Ligereza y comodidad:
+
+#### b. Ligereza y comodidad:
 El diseño liviano asegura que el paciente use el dispositivo durante varias horas, tanto para rehabilitación como para actividades cotidianas, sin generar fatiga muscular o incomodidad. Esenciales para promover el uso constante del guante, lo que es clave para un proceso de rehabilitación rapida.
 
 > 3. Beneficios:
