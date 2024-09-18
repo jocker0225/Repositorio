@@ -74,8 +74,16 @@ Especifico: Recuperar la funcionalidad de las manos y los dedos a un plazo no ma
 
 > Resultados deseados:
 
-> Siguientes pasos:
+Se espera que el proyecto obtenga los siguientes resultados:
+Mejora en recuperacion de movimientos de la mano y los dedos en mayor relevancia en el agarre.
+Rehabilitación funcional ayudando a la reintegracion de actividad diarias.
+Monitoreo de progreso por la proporcion de datos a través de sensores que registren la fuerza de flexión de los dedos.
+Comodidad y usabilidad por el uso de un diseño ergonomico.
+Estimulación neuromuscular en músculos y nervios de la mano, promoviendo la plasticidad neuronal.
 
+Eficiencia del prototipado electronico (Circuito electrónico y componentes electróonicos)
+> Siguientes pasos:
+Se considera a realizar una metodología de diseño considerando las entradas y salidas de energía, señales y materia de una caja negra. De esta manera se busca hacer un esquema de funciones que realizaría el proyecto como flexión, procesar datos de variables, reguladores de fuerza, ligereza y comodidad, no invasivo y portatil capaz de usarse por largo periodos de tiempo. Luego hacer una matrix morfologica que incluya dispositivos electronicos que vamos a implementar evaluando los conceptos de solución. De la misma manera se seguiría con el modelado 3D, es decir con la estructura optima que agrupe todas las características de solución, es concierne al uso de programas como Autodesk Inventor y para la parte del modelado electronico Proteus y/o ArduinoIDE. Por consiguiente se busca una inmejorable impresion 3D haciendo uso de programas como Cura Multimaker. Finalmente se estarian realizando calculos finales de las variables, revisar el historial de propuestas de soluciones y validando las funciones finales obtenidas para hacer pruebas en un simulacro del paciente para evaluar su eficacia del producto.
 > ### *REFERENCIAS BIBLIOGRAFICAS (IEEE)*
 > [1] UPCH. “Lesiones de la médula espinal por enfermedades y de causa traumática.” 2024, https://upch.blackboard.com/ultra/courses/_12309_1/outline/file/_670764_1.
 
