@@ -14,7 +14,7 @@ El problema específico que buscamos resolver es la recuperación de la funciona
 > Impacto
 
  La pérdida de funcionalidad en las extremidades superiores tiene un impacto directo en la vida diaria de las personas con lesión medular, dificultando tareas tan simples como alimentarse, vestirse o escribir. A nivel psicológico, entre el 20% y el 30% de las personas con LME presentan síntomas clínicamente significativos de depresión, y un porcentaje considerable sufre aislamiento social. [4] En términos de salud, las personas con LME están en mayor riesgo de complicaciones prevenibles como infecciones o úlceras de decúbito. Además, el estrés y la carga emocional afectan tanto a los pacientes como a sus cuidadores.
-En este contexto, nuestra propuesta es desarrollar un dispositivo de rehabilitación que fortalezca la función de las manos y los dedos, permitiendo al paciente realizar movimientos esenciales como la pinza, separar los dedos y cerrar la mano. La restauración de estas funciones mejoraría significativamente su capacidad de realizar tareas cotidianas, facilitando una mayor independencia y reduciendo el impacto emocional y social asociado a su condición.
+En este contexto, nuestra propuesta es desarrollar un dispositivo de rehabilitación que fortalezca la función de las manos y los dedos, permitiendo al paciente realizar movimientos esenciales como la pinza. La restauración de estas funciones mejoraría significativamente su capacidad de realizar tareas cotidianas, facilitando una mayor independencia y reduciendo el impacto emocional y social asociado a su condición.
 
 Relevancia en Ingeniería Biomédica:
 
