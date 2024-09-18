@@ -44,5 +44,14 @@ En este contexto, nuestra propuesta es desarrollar un dispositivo de rehabilitac
 > Resultados deseados
 > 
 > Siguientes pasos
-> 
+>
+> ### *REFERENCIAS BIBLIOGRAFICAS (IEEE)*
+> [1] UPCH. “Lesiones de la médula espinal por enfermedades y de causa traumática.” 2024, https://upch.blackboard.com/ultra/courses/_12309_1/outline/file/_670764_1.
+> [2] “Instituto Nacional de Rehabilitación brindó cerca de 16 mil 500 atenciones atenciones de enero a mayo 2024.” Instituto Nacional de Rehabilitación brindó cerca
+> de 16 mil 500 atenciones atenciones de enero a > mayo 2024, 14 July 2024, https://www.gob.pe/institucion/inr/noticias/988814-instituto-nacional-de-rehabilitacion-
+> brindo-cerca-de-16-mil-500-atenciones-atenciones-de-enero-a-mayo-2024. Accessed 16 September 2024.
+> [3] Corral López, Irene, et al. “Traumatismo medular.” Manuales Clínicos, https://manualclinico.hospitaluvrocio.es/urgencias-de-traumatologia/patologia-de-cabeza-
+> y-tronco/traumatismo-medular/. Accessed 16 September 2024.
+> [4] OMS, et al. “Lesiones de la Mèdula Espinal Perspectivas Internacionales.” Untitled, https://iris.who.int/bitstream/handle/10665/131504/WHO_NMH_VIP_13.03_spa.pdf?sequence=1&isAllowed=y.
+> Accessed 16 September 2024.
 >
