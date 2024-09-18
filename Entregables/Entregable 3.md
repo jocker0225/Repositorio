@@ -21,6 +21,7 @@ En este contexto, nuestra propuesta es desarrollar un dispositivo de rehabilitac
 > Descripción de la solución:
 
 > Características del prototipo:
+
 El guante robótico se diseñó con un enfoque en satisfacer las necesidades específicas de pacientes con movilidad reducida en la mano, especialmente aquellos con lesiones medulares, espasticidad o pérdida de función motora. Para garantizar que esta solución sea efectiva, se han incluido funciones esenciales quepermiten la de manera precisa de identificar la problemática:
 
 A. Actuadores en los dedos para asistencia en el movimiento:
