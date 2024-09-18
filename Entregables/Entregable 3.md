@@ -49,7 +49,7 @@ En los métodos tradicionales de rehabilitación, los pacientes requieren de ter
 Para los actuadores en los dedos, se pueden emplear motores eléctricos de bajo peso, como los utilizados en prótesis robóticas. Con la estructura del guante, se utilizará un polímero como es la silicona , que por sus características  son suaves, flexibles y duraderos. Estos materiales dan comodidad al usuario y permiten el uso prolongado sin causar lesiones o incomodidades.
 El guante incorpora microcontroladores como el Arduino, que han sido ampliamente utilizados en dispositivos robóticos y son capaces de procesar señales de los sensores de presión y controlar los actuadores. Estos controladores son accesibles, asequibles y programables .
 Conocimientos necesarios:
-- Control robótico: El desarrollo del software que controle los actuadores y sensores.
+- Control informático: El desarrollo del software que controle los actuadores y sensores.
 - Anatomía básica de la mano y la muñeca, para garantizar que el dispositivo respete la fisiología del paciente.
 - Programación básica de microcontroladores para integrar los componentes electrónicos y sensores del dispositivo.
 
