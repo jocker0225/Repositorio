@@ -55,6 +55,8 @@ El guante robótico propuesto ofrece una serie de mejoras sustanciales respecto 
 > ### *COHERENCIA*
 
 > Contexto del proyecto:
+> 
+La propuesta del exoesqueleto blando es esencial para la rehabilitación de pacientes con lesión medular en C6 y C7, ya que ofrece una solución adaptativa y cómoda para mejorar la movilidad de la mano y facilitar la recuperación funcional. Su diseño permite un ajuste personalizado y la integración de sensores de fuerza, lo que permite un monitoreo preciso del progreso del paciente. Esta solución se alinea con el enfoque de la ingeniería biomédica en el desarrollo de dispositivos médicos innovadores que combinan tecnología avanzada con comodidad, mejorando la rehabilitación y la calidad de vida de los pacientes.
 
 > Objetivos del proyecto:
 
