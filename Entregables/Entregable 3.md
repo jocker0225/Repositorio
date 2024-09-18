@@ -113,4 +113,5 @@ Se considera a realizar una metodología de diseño considerando las entradas y 
 
 > [4] OMS, et al. “Lesiones de la Mèdula Espinal Perspectivas Internacionales.” Untitled, https://iris.who.int/bitstream/handle/10665/131504/WHO_NMH_VIP_13.03_spa.pdf?sequence=1&isAllowed=y.
 > Accessed 16 September 2024.
+> 
 
