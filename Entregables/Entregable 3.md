@@ -34,13 +34,16 @@ La férula impide que la muñeca se desvíe de su posición óptima, reduciendo 
 El diseño liviano asegura que el paciente use el dispositivo durante varias horas, tanto para rehabilitación como para actividades cotidianas, sin generar fatiga muscular o incomodidad. Esenciales para promover el uso constante del guante, lo que es clave para un proceso de rehabilitación rapida.
 
 > 2. Beneficios:
+
 Uno de los principales beneficios del guante robótico es que permite a los usuarios realizar movimientos precisos de agarre y manipulación de objetos.
 El guante robótico facilita la autonomía en las actividades diarias. Al mejorar la funcionalidad de la mano, los pacientes pueden realizar tareas que antes eran inalcanzables o que requerían la asistencia de otra persona.
 A comparación de otras alternativas como son:
 Las férulas solo proporcionan estabilización pasiva y no permiten movimientos de agarre. En cambio, el guante robótico ofrece movilidad activa en los dedos, lo que facilita la ejecución de tareas diarias de manera independiente.
 Muchos exoesqueletos de mano son voluminosos y costosos, lo que dificulta su uso cotidiano. El guante robótico propuesto es ligero, portátil y de bajo costo en comparación, lo que lo hace más accesible para una mayor cantidad de usuarios.
 En los métodos tradicionales de rehabilitación, los pacientes requieren de terapia física constante, lo que implica un alto costo y tiempo. El guante robótico permite que los usuarios realicen ejercicios de rehabilitación por su cuenta, disminuyendo la necesidad de asistencia constante.
+
 > 3. Viabilidad Técnica:
+
 Para los actuadores en los dedos, se pueden emplear motores eléctricos de bajo peso, como los utilizados en prótesis robóticas. Con la estructura del guante, se utilizará un polímero como es la silicona , que por sus características  son suaves, flexibles y duraderos. Estos materiales dan comodidad al usuario y permiten el uso prolongado sin causar lesiones o incomodidades.
 El guante incorpora microcontroladores como el Arduino, que han sido ampliamente utilizados en dispositivos robóticos y son capaces de procesar señales de los sensores de presión y controlar los actuadores. Estos controladores son accesibles, asequibles y programables .
 Conocimientos necesarios:
