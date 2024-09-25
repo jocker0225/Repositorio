@@ -24,3 +24,7 @@ Se quiere realizar un exoesqueleto  de un material flexible y amigable a la func
 
 [![Captura-de-pantalla-2024-09-25-143147.jpg](https://i.postimg.cc/4NtHW3bb/Captura-de-pantalla-2024-09-25-143147.jpg)](https://postimg.cc/QH8MthzH)
 
+![CamScanner 18-09-2024 15 31_1](https://github.com/user-attachments/assets/1c2805ff-cb74-485e-a96d-7ca34f4331bf)
+![CamScanner 18-09-2024 15 31_2](https://github.com/user-attachments/assets/7fa08270-57b6-4028-8e35-ef913232ee75)
+![CamScanner 18-09-2024 15 31_3](https://github.com/user-attachments/assets/f80b2d22-b6ef-4a7a-8184-be04f4663d60)
+
