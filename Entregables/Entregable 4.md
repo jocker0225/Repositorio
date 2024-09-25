@@ -20,5 +20,4 @@
  
 11. Bocetos:
 
-[![imagen-2024-09-25-020141106.png](https://i.postimg.cc/VLjmCsXH/imagen-2024-09-25-020141106.png)](https://postimg.cc/CzL3ygPj)
-[![imagen-2024-09-25-020201987.png](https://i.postimg.cc/HLPggrCj/imagen-2024-09-25-020201987.png)](https://postimg.cc/kV8ZNXGd)
+[![Captura-de-pantalla-2024-09-25-143147.jpg](https://i.postimg.cc/TwZB0Qf9/Captura-de-pantalla-2024-09-25-143147.jpg)](https://postimg.cc/TLJkYVyL)
